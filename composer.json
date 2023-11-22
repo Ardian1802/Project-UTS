@@ -1,0 +1,17 @@
+{
+    "name": "yanze/uts",
+    "description": "Praktikum membuat CRUD menggunakan konsep OOP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ardian1802",
+            "email": "142974377+Ardian1802@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
